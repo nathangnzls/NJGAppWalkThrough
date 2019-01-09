@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NJGAppWalkThrough_Example' do
+  pod 'NJGAppWalkThrough', :path => '../'
+
+  target 'NJGAppWalkThrough_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
