@@ -1,0 +1,6 @@
+framework module Pods_NJGAppWalkThrough_Example {
+  umbrella header "Pods-NJGAppWalkThrough_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

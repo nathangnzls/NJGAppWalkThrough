@@ -1,0 +1,16 @@
+PODS:
+  - NJGAppWalkThrough (0.1.0)
+
+DEPENDENCIES:
+  - NJGAppWalkThrough (from `../`)
+
+EXTERNAL SOURCES:
+  NJGAppWalkThrough:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NJGAppWalkThrough: 49f1a6f33f9871487839aee5e08e2c22a3842553
+
+PODFILE CHECKSUM: fd3d1e6bb1220d3d6ca2adf64b778f52d81e2917
+
+COCOAPODS: 1.5.3

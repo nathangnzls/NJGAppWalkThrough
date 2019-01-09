@@ -1,0 +1,6 @@
+framework module NJGAppWalkThrough {
+  umbrella header "NJGAppWalkThrough-umbrella.h"
+
+  export *
+  module * { export * }
+}

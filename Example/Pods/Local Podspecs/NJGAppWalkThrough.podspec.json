@@ -1,0 +1,22 @@
+{
+  "name": "NJGAppWalkThrough",
+  "version": "0.1.0",
+  "summary": "A short description of NJGAppWalkThrough.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nathanielgonzalesj@gmail.com/NJGAppWalkThrough",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nathanielgonzalesj@gmail.com": "nathanielgonzalesj@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nathanielgonzalesj@gmail.com/NJGAppWalkThrough.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NJGAppWalkThrough/Classes/**/*"
+}

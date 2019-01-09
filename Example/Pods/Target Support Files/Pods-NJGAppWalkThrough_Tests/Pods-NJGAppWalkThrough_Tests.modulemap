@@ -1,0 +1,6 @@
+framework module Pods_NJGAppWalkThrough_Tests {
+  umbrella header "Pods-NJGAppWalkThrough_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -29,9 +29,9 @@
 
 /* Begin PBXFileReference section */
 		2D6EC818D606B54111FD9C13 /* Pods-NJGAppWalkThrough_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NJGAppWalkThrough_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NJGAppWalkThrough_Tests/Pods-NJGAppWalkThrough_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		2F5A7EA2EADC7869F59E757D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		2F5A7EA2EADC7869F59E757D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		55604AD5FD0CBF9A7C032072 /* Pods_NJGAppWalkThrough_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NJGAppWalkThrough_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		59DF974FB5CF009845EEA447 /* NJGAppWalkThrough.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NJGAppWalkThrough.podspec; path = ../NJGAppWalkThrough.podspec; sourceTree = "<group>"; };
+		59DF974FB5CF009845EEA447 /* NJGAppWalkThrough.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NJGAppWalkThrough.podspec; path = ../NJGAppWalkThrough.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* NJGAppWalkThrough_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NJGAppWalkThrough_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		815C5DF20F627F71C2FD61B7 /* Pods-NJGAppWalkThrough_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NJGAppWalkThrough_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NJGAppWalkThrough_Tests/Pods-NJGAppWalkThrough_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		ADD98558C0DDD0C070B71C86 /* Pods-NJGAppWalkThrough_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NJGAppWalkThrough_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-NJGAppWalkThrough_Example/Pods-NJGAppWalkThrough_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B30F8FAC181CD1BC906A9C98 /* Pods-NJGAppWalkThrough_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NJGAppWalkThrough_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NJGAppWalkThrough_Example/Pods-NJGAppWalkThrough_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		CCD3DC6872346F76B9BA2864 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		CCD3DC6872346F76B9BA2864 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		EEC2CF7C57943B4068BB22AD /* Pods_NJGAppWalkThrough_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NJGAppWalkThrough_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

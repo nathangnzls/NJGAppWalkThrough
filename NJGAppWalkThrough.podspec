@@ -8,8 +8,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NJGAppWalkThrough'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of NJGAppWalkThrough.'
+  s.version          = '1.0.0'
+  s.summary          = 'This project is composed of swift classes'
+  s.swift_version    = '4.2.1'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +22,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/nathanielgonzalesj@gmail.com/NJGAppWalkThrough'
+  s.homepage         = 'https://github.com/nathangnzls/NJGAppWalkThrough'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'nathanielgonzalesj@gmail.com' => 'nathanielgonzalesj@gmail.com' }
-  s.source           = { :git => 'https://github.com/nathanielgonzalesj@gmail.com/NJGAppWalkThrough.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/nathangnzls/NJGAppWalkThrough.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
